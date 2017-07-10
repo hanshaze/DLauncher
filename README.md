@@ -1,2 +1,2 @@
 # DLauncher
-A simple launcher that inject a dll at the process startup.
+A simple launcher that inject a dll while the process startup.
